@@ -18,7 +18,7 @@ work on the side: diagnostics, automation, and the boring parts done properly.
 
 - Linux tooling and diagnostics
 - Automation, CI and packaging
-- Cybersecurity and bug bounty (solo)
+- Cybersecurity 
 
 ## 🛠️ Languages and Tools
 
