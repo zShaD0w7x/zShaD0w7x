@@ -11,18 +11,30 @@ $ cat status
 building open-source Linux tooling
 ```
 
-Freelance software and systems, mostly Linux. I build open-source tooling and
-work in cybersecurity. Open to collaborations and freelance work.
+I'm a freelance software and systems person based in Timișoara, Romania. My work
+sits between operations and development: I build tooling for Linux and spend a
+good part of my time on cybersecurity. What ties it together is a preference for
+evidence — tools that show you what is actually happening on a machine, backed
+by tests, instead of asking you to trust them.
+
+I care about the boring parts done properly: read-only by default, clear output,
+tests that pin behaviour, and packaging that works on the systems people actually
+run (including immutable distributions). If a tool cannot explain itself, it is
+not finished.
 
 ## > currently
 
 **[Linux Doctor](https://github.com/zShaD0w7x/linux-doctor)** — read-only
-diagnostics for Linux. It runs ~49 checks, gives a 0-100 health score, and shows
-a run-over-run diff (what's new, what got fixed) with a fix for every finding.
-CLI, web dashboard and desktop app (Tauri) on one engine. GPL-3.0, 600+ tests,
-no runtime dependencies.
+diagnostics for Linux. It runs ~49 checks (memory and swap, disks and inodes,
+failed services, OOM kills, SMART, certificate expiry, firewall and SELinux,
+pending updates, crash history, containers, backups, thermals, GPU, and more),
+gives a 0-100 health score, and shows a run-over-run diff — what is new, what got
+fixed, what stayed the same — with a fix for every finding. One engine behind a
+CLI, a web dashboard and a desktop app (Tauri). GPL-3.0, 600+ tests, no runtime
+dependencies. Packaged for npm, Fedora/RHEL/openSUSE (OBS), AUR, deb, rpm and
+AppImage.
 
-## > toolbox
+## > what I work with
 
 [![Toolbox](https://skillicons.dev/icons?i=js,ts,py,nodejs,rust,bash,linux,tauri,cloudflare,kali,git,github,githubactions,vscode,npm&theme=dark&perline=15)](#)
 
@@ -30,9 +42,16 @@ no runtime dependencies.
 
 ## > interests
 
-- Linux tooling and diagnostics
+- Linux system tooling and diagnostics
 - Automation, CI and packaging
 - Cybersecurity
+
+## > how I work
+
+- Evidence over vibes: what a tool reads, writes, and refuses to do.
+- Read-only by default; side effects should be explicit.
+- Test what you ship.
+- Direct and async; written over meetings.
 
 ## > contact
 
