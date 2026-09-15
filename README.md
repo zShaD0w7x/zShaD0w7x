@@ -1,34 +1,32 @@
-# Hi 👋
+# zShaD0w7x
 
-A freelance **software and systems** person based in Timișoara, Romania. I build
-open-source tooling, mostly for Linux, and I do **cybersecurity and bug bounty**
-work on the side: diagnostics, automation, and the boring parts done properly.
+Freelance software and systems, based in Timișoara, Romania. I build
+open-source tooling, mostly for Linux, and I work in cybersecurity.
 
-- Freelancer — open to collaborations and work
-- Reach me: <a href="https://github.com/zShaD0w7x"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" align="center"/></a>
-- **NOTE**: you can **fork** and **contribute** to any repo 🙌
+Open to collaborations and freelance work.
 
-[- Currently working on [Linux Doctor](https://github.com/zShaD0w7x/linux-doctor)]::
+## Currently building
 
-## 🧑‍💻 My Projects
+**[Linux Doctor](https://github.com/zShaD0w7x/linux-doctor)** — read-only
+diagnostics for Linux. It runs ~49 checks, gives a health score with a
+run-over-run diff (what's new, what got fixed), and explains every finding with
+a fix you can copy. CLI, web dashboard and desktop app (Tauri) on one engine.
+GPL-3.0, 600+ tests, no runtime dependencies.
 
-1. **[Linux Doctor](https://github.com/zShaD0w7x/linux-doctor)** — read-only diagnostics for Linux: CLI + web + desktop (Tauri), ~49 checks, a health score with a run-over-run diff. GPL-3.0, 600+ tests.
+## What I work with
 
-## 🔐 Interests
+[![Toolbox](https://skillicons.dev/icons?i=js,ts,py,nodejs,rust,bash,linux,tauri,cloudflare,kali,git,github,githubactions,vscode,npm&perline=15)](#)
+
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)](#)
+
+## Interests
 
 - Linux tooling and diagnostics
 - Automation, CI and packaging
-- Cybersecurity 
+- Cybersecurity
 
-## 🛠️ Languages and Tools
+## Elsewhere
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,rust,bash,linux,git,github,githubactions,vscode,npm&perline=12)](#)
+- GitHub: [@zShaD0w7x](https://github.com/zShaD0w7x)
 
-## 🚀 GitHub Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zShaD0w7x&show_icons=true&count_private=true&theme=blue-green)](#)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zShaD0w7x&layout=compact&count_private=true&theme=blue-green)](#)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+Contributions, issues and forks are welcome on any repo.
