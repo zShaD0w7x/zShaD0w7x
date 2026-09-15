@@ -44,6 +44,11 @@ AppImage.
 - Clear output over clever output.
 - Direct and async.
 
+## > open to
+
+Open to freelance work and collaborations: Linux tooling, automation and
+security.
+
 ## > contact
 
 - GitHub: [@zShaD0w7x](https://github.com/zShaD0w7x)
