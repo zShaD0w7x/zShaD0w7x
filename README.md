@@ -174,14 +174,15 @@ Where I look when something is wrong — and what I refuse to break while lookin
 
 <div align="center">
 
+<div align="center">
+
 ![GITHUB ACTIVITY](https://img.shields.io/badge/-GITHUB%20ACTIVITY-a371f7?style=for-the-badge&logo=github&logoColor=white)
 
-<br/>
-
-![stats](https://github-readme-stats.vercel.app/api?username=zShaD0w7x&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=2f81f7&text_color=c9d1d9&rank_icon=github)
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zShaD0w7x&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9)
-
 [![followers](https://img.shields.io/github/followers/zShaD0w7x?style=flat-square&label=followers&labelColor=0d1117&color=2f81f7)](https://github.com/zShaD0w7x?tab=followers)
+[![commits/mo](https://img.shields.io/github/commit-activity/m/zShaD0w7x/linux-doctor?style=flat-square&label=commits%2Fmo&labelColor=0d1117&color=3fb950)](https://github.com/zShaD0w7x/linux-doctor)
+[![last commit](https://img.shields.io/github/last-commit/zShaD0w7x/linux-doctor?style=flat-square&label=last%20commit&labelColor=0d1117&color=2f81f7)](https://github.com/zShaD0w7x/linux-doctor)
+[![license](https://img.shields.io/github/license/zShaD0w7x/linux-doctor?style=flat-square&labelColor=0d1117&color=d29922)](https://github.com/zShaD0w7x/linux-doctor)
+
 [![repositories](https://img.shields.io/badge/repositories-browse-3fb950?style=flat-square&logo=github&logoColor=white)](https://github.com/zShaD0w7x?tab=repositories)
 
 </div>
