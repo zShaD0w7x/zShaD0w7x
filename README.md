@@ -1,56 +1,114 @@
-# zShaD0w7x
+# 7sh1d0w7x
 
-```shell
-$ whoami
-zShaD0w7x
-$ cat /etc/location
-Timișoara, Romania
-$ cat role
-freelance software & systems · cybersecurity
+### Linux · Systems · Security · Tooling
+
+> Building software that makes complex systems easier to understand.
+
+I'm a freelance software & systems developer from **Timișoara, Romania**, focused on Linux tooling, automation and cybersecurity.
+
+I prefer **evidence over assumptions** — tools should inspect, explain and verify what is actually happening instead of hiding complexity behind a black box.
+
+---
+
+## 🔭 Currently building
+
+### 🩺 [Linux Doctor](https://github.com/zShaD0w7x/linux-doctor)
+
+A read-only Linux diagnostic toolkit designed to answer one simple question:
+
+**What is actually wrong with this machine?**
+
+* 🔍 49+ diagnostic checks
+* 📊 0–100 system health score
+* 🧬 Run-over-run change detection
+* 🛠️ Actionable fixes for findings
+* 🧪 600+ automated tests
+* 🖥️ CLI · Web · Desktop
+* 📦 npm · AUR · OBS · deb · rpm · AppImage
+* 🔒 Read-only by default
+* 📜 GPL-3.0
+
+One diagnostic engine, multiple interfaces.
+
+---
+
+## ⚙️ What I work with
+
+```text
+Languages       Python · JavaScript · TypeScript · Bash · SQL
+
+Systems         Linux · Fedora · CLI tooling · Packaging
+
+Web             React · Node.js · APIs
+
+Infrastructure  Git · GitHub Actions · CI/CD
+
+Security        Linux security · system analysis · automation
 ```
 
-## > about
+---
 
-Freelance software and systems, based in Timișoara, Romania. I work between
-operations and development: building tooling for Linux, and spending a good part
-of my time on cybersecurity. My default is evidence — tools that show what is
-actually happening on a machine, backed by tests, rather than asking for trust.
+## 🧠 How I build
 
-## > current work
+**Evidence first**
+Measure before making assumptions.
 
-**[Linux Doctor](https://github.com/zShaD0w7x/linux-doctor)** — read-only
-diagnostics for Linux. ~49 checks, a 0-100 health score, and a run-over-run diff
-(new / fixed / unchanged) with a fix for every finding. One engine behind a CLI,
-a web dashboard and a desktop app (Tauri). GPL-3.0, 600+ tests, no runtime
-dependencies. Packaged for npm, OBS (Fedora/RHEL/openSUSE), AUR, deb, rpm and
-AppImage.
+**Read-only by default**
+Diagnostics should not silently modify the system.
 
-## > stack
+**Test what you ship**
+If it matters, automate the verification.
 
-[![Toolbox](https://skillicons.dev/icons?i=js,ts,py,nodejs,rust,bash,linux,tauri,cloudflare,kali,git,github,githubactions,vscode,npm&theme=dark&perline=15)](#)
+**Clear output > clever implementation**
+Users should understand the result without reading the source code.
 
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](#)
+**One engine, many interfaces**
+Keep the core logic reusable and build interfaces around it.
 
-## > interests
+---
 
-- Linux system tooling and diagnostics
-- Automation, CI and packaging
-- Cybersecurity
+## 🚧 Exploring
 
-## > principles
+* 🐧 Linux system internals
+* 🔐 Cybersecurity & defensive tooling
+* ⚙️ Automation and developer tooling
+* 🤖 AI-assisted development
+* 📦 Cross-distribution packaging
+* 🧪 Software testing & reliability
 
-- Read-only by default; side effects must be explicit.
-- Test what you ship.
-- Clear output over clever output.
-- Direct and async.
+---
 
-## > open to
+## 📌 Selected work
 
-Open to freelance work and collaborations: Linux tooling, automation and
-security.
+| Project                  | What it does                       |
+| ------------------------ | ---------------------------------- |
+| 🩺 **Linux Doctor**      | Linux diagnostics & system health  |
+| 🔐 **Security tooling**  | Experiments around system security |
+| ⚙️ **Developer tooling** | Automation, utilities & workflows  |
 
-## > contact
+More projects are gradually moving from experiments → usable software.
 
-- GitHub: [@zShaD0w7x](https://github.com/zShaD0w7x)
+---
 
-Contributions, issues and forks are welcome.
+## 🌐 Find me
+
+**GitHub** → [@zShaD0w7x](https://github.com/zShaD0w7x)
+
+**Location** → Timișoara, Romania
+
+Open to interesting **open-source collaborations, Linux tooling, automation and security work**.
+
+---
+
+```text
+$ whoami
+
+7sh1d0w7x
+
+$ cat /etc/motto
+
+understand the system
+then build the tool
+```
+
+<sub>Built with curiosity, Linux and an unreasonable amount of terminal tabs.</sub>
