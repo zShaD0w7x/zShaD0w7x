@@ -22,13 +22,13 @@
 
 ```text
 ┌────────────────────────────────────────────┐
-║ SYSTEM                                     ║
+│ SYSTEM                                     │
 │                                            │
-║ USER      zShaD0w7x                        ║
-║ ROLE      Software & Systems Developer     ║
-║ BASE      Timișoara, Romania               ║
-║ FOCUS     Linux / Security / Tooling / AI  ║
-║ STATUS    Building                         ║
+│ USER      zShaD0w7x                        │
+│ ROLE      Freelance Software & Systems     │
+│ BASE      Timișoara, Romania               │
+│ FOCUS     Linux / Security / Tooling / AI  │
+│ STATUS    Building                         │
 └────────────────────────────────────────────┘
 ```
 
@@ -40,9 +40,9 @@
 
 ```text
 ┌────────────────────────────────────────────┐
-│        49+ checks        600+ tests        │
-│    0–100 health      CLI / Web / Tauri     │
-│       read-only         multi-distro       │
+│       49+ checks          600+ tests       │
+│   0–100 health        CLI / Web / Tauri    │
+│      read-only           multi-distro      │
 └────────────────────────────────────────────┘
 ```
 
@@ -51,10 +51,6 @@
 *Read-only diagnostics. One engine — CLI, Web and Desktop.*
 
 ↓
-
-</div>
-
-<div align="center">
 
 ### 🛠 TECH STACK
 
@@ -76,10 +72,6 @@
 
 ↓
 
-</div>
-
-<div align="center">
-
 ### 🚀 FEATURED PROJECTS
 
 | Project | Purpose | Status |
@@ -92,10 +84,6 @@ More projects are gradually moving from experiments → usable software.
 
 ↓
 
-</div>
-
-<div align="center">
-
 ### 📊 GITHUB ANALYTICS
 
 [![streak](https://streak-stats.demolab.com?user=zShaD0w7x&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=3FB950&fire=F85149&currStreakLabel=3FB950)](https://github.com/zShaD0w7x)
@@ -106,19 +94,15 @@ More projects are gradually moving from experiments → usable software.
 
 ↓
 
-</div>
-
-<div align="center">
-
 ### 🧬 ENGINEERING PRINCIPLES
 
 ```text
 ┌────────────────────────────────────────────┐
-║ 01  Evidence First                         ║
-║ 02  Read-Only by Default                   ║
-║ 03  Test What You Ship                     ║
-║ 04  Explain, Don't Obscure                 ║
-║ 05  One Engine, Many Interfaces            ║
+│ 01  Evidence First                         │
+│ 02  Read-Only by Default                   │
+│ 03  Test What You Ship                     │
+│ 04  Explain, Don't Obscure                 │
+│ 05  One Engine, Many Interfaces            │
 └────────────────────────────────────────────┘
 ```
 
@@ -134,9 +118,11 @@ More projects are gradually moving from experiments → usable software.
 ### 🔭 EXPLORING
 
 ```text
-Linux internals        Cybersecurity
-AI tooling             Automation
-Packaging              Software reliability
+┌────────────────────────────────────────────┐
+│     Linux internals      Cybersecurity     │
+│      AI tooling           Automation       │
+│ Packaging            Software reliability  │
+└────────────────────────────────────────────┘
 ```
 
 ↓
@@ -144,8 +130,8 @@ Packaging              Software reliability
 ### 📡 ACTIVITY
 
 [![last commit](https://img.shields.io/github/last-commit/zShaD0w7x/linux-doctor?style=for-the-badge&label=last%20commit&labelColor=0D1117&color=2F81F7)](https://github.com/zShaD0w7x/linux-doctor)
-[![license](https://img.shields.io/github/license/zShaD0w7x/linux-doctor?style=for-the-badge&labelColor=0D1117&color=D29922)](https://github.com/zShaD0w7x/linux-doctor)
 [![release](https://img.shields.io/github/v/release/zShaD0w7x/linux-doctor?style=for-the-badge&labelColor=0D1117&color=3FB950)](https://github.com/zShaD0w7x/linux-doctor/releases)
+[![license](https://img.shields.io/github/license/zShaD0w7x/linux-doctor?style=for-the-badge&labelColor=0D1117&color=D29922)](https://github.com/zShaD0w7x/linux-doctor)
 
 ↓
 
