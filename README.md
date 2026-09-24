@@ -2,21 +2,26 @@
 
 # 7sh1d0w7x
 
-### Linux Systems · Cybersecurity · Tooling · AI
+### `Linux Systems` · `Cybersecurity` · `Tooling` · `AI`
 
 **I build open-source tools that tell you what is actually wrong.**
 
 Freelance software & systems developer · Timișoara, Romania
 
-[![GitHub](https://img.shields.io/badge/GitHub-zShaD0w7x-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zShaD0w7x)
-[![flagship](https://img.shields.io/badge/flagship-linux--doctor-3fb950?style=flat-square&logo=linux&logoColor=white)](https://github.com/zShaD0w7x/linux-doctor)
-[![last commit](https://img.shields.io/github/last-commit/zShaD0w7x/linux-doctor?style=flat-square&label=last%20commit&labelColor=0d1117&color=2f81f7)](https://github.com/zShaD0w7x/linux-doctor)
+[![GitHub](https://img.shields.io/badge/GitHub-zShaD0w7x-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zShaD0w7x)
+[![flagship](https://img.shields.io/badge/flagship-linux--doctor-3fb950?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/zShaD0w7x/linux-doctor)
+[![last commit](https://img.shields.io/github/last-commit/zShaD0w7x/linux-doctor?style=for-the-badge&label=last%20commit&labelColor=0d1117&color=2f81f7)](https://github.com/zShaD0w7x/linux-doctor)
+[![profile views](https://komarev.com/ghpvc/?username=zShaD0w7x&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d1117&color=a371f7)](https://github.com/zShaD0w7x)
 
 </div>
 
 ---
 
-## SYSTEM PROFILE
+<div align="center">
+
+![SYSTEM PROFILE](https://img.shields.io/badge/-SYSTEM%20PROFILE-2f81f7?style=for-the-badge&logo=linux&logoColor=white)
+
+</div>
 
 ```text
 $ whoami
@@ -34,7 +39,11 @@ STATUS    Building linux-doctor — open-source system diagnostics
 
 ---
 
-## ABOUT
+<div align="center">
+
+![ABOUT](https://img.shields.io/badge/-ABOUT-3fb950?style=for-the-badge&logo=aboutdotme&logoColor=white)
+
+</div>
 
 I'm a freelance software & systems developer from **Timișoara, Romania**. Most of my work happens close to the system: Linux internals, diagnostics, automation, and the tooling that makes a machine explainable.
 
@@ -44,7 +53,11 @@ That preference shapes how I build: inspect before changing, keep the core read-
 
 ---
 
-## ENGINEERING PHILOSOPHY
+<div align="center">
+
+![ENGINEERING PHILOSOPHY](https://img.shields.io/badge/-ENGINEERING%20PHILOSOPHY-a371f7?style=for-the-badge)
+
+</div>
 
 | Principle | In practice |
 | --- | --- |
@@ -56,7 +69,11 @@ That preference shapes how I build: inspect before changing, keep the core read-
 
 ---
 
-## CURRENTLY BUILDING
+<div align="center">
+
+![CURRENTLY BUILDING](https://img.shields.io/badge/-CURRENTLY%20BUILDING-d29922?style=for-the-badge)
+
+</div>
 
 ### 🩺 linux-doctor
 
@@ -78,11 +95,15 @@ A read-only Linux diagnostic toolkit. It inspects a running system, scores its h
 
 One diagnostic engine, multiple interfaces — built to be understood, not just executed.
 
-**[→ Explore linux-doctor](https://github.com/zShaD0w7x/linux-doctor)**
+[![Explore linux-doctor](https://img.shields.io/badge/EXPLORE-linux--doctor-3fb950?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/zShaD0w7x/linux-doctor)
 
 ---
 
-## TECH STACK
+<div align="center">
+
+![TECH STACK](https://img.shields.io/badge/-TECH%20STACK-2f81f7?style=for-the-badge)
+
+</div>
 
 **Languages**
 
@@ -100,13 +121,13 @@ One diagnostic engine, multiple interfaces — built to be understood, not just 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-30363D?style=flat-square&logoColor=white)
 
-**Security**
-
-![Linux security](https://img.shields.io/badge/Linux_security-30363D?style=flat-square&logoColor=white) ![system analysis](https://img.shields.io/badge/system_analysis-30363D?style=flat-square&logoColor=white) ![automation](https://img.shields.io/badge/automation-30363D?style=flat-square&logoColor=white)
-
 ---
 
-## SELECTED WORK
+<div align="center">
+
+![SELECTED WORK](https://img.shields.io/badge/-SELECTED%20WORK-3fb950?style=for-the-badge)
+
+</div>
 
 | Project | Purpose | Status |
 | --- | --- | --- |
@@ -118,7 +139,29 @@ More projects are gradually moving from experiments → usable software.
 
 ---
 
-## EXPLORING
+<div align="center">
+
+![SECURITY](https://img.shields.io/badge/-SECURITY%20%26%20SYSTEMS-f85149?style=for-the-badge)
+
+</div>
+
+Where I look when something is wrong — and what I refuse to break while looking.
+
+![Linux security](https://img.shields.io/badge/Linux_security-f85149?style=flat-square&logo=linux&logoColor=white) ![system analysis](https://img.shields.io/badge/system_analysis-f85149?style=flat-square&logo=gnubash&logoColor=white) ![defensive tooling](https://img.shields.io/badge/defensive_tooling-f85149?style=flat-square) ![automation](https://img.shields.io/badge/automation-f85149?style=flat-square&logoColor=white)
+
+```text
+[ ok ] evidence first          [ ok ] read-only by default
+[ ok ] reproducible            [ ok ] tested before shipped
+[ -- ] never a black box
+```
+
+---
+
+<div align="center">
+
+![EXPLORING](https://img.shields.io/badge/-EXPLORING-d29922?style=for-the-badge)
+
+</div>
 
 - 🐧 Linux system internals
 - 🔐 Cybersecurity & defensive tooling
@@ -129,16 +172,29 @@ More projects are gradually moving from experiments → usable software.
 
 ---
 
-## ACTIVITY
+<div align="center">
+
+![GITHUB ACTIVITY](https://img.shields.io/badge/-GITHUB%20ACTIVITY-a371f7?style=for-the-badge&logo=github&logoColor=white)
+
+<br/>
+
+![stats](https://github-readme-stats.vercel.app/api?username=zShaD0w7x&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=2f81f7&text_color=c9d1d9&rank_icon=github)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zShaD0w7x&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9)
 
 [![followers](https://img.shields.io/github/followers/zShaD0w7x?style=flat-square&label=followers&labelColor=0d1117&color=2f81f7)](https://github.com/zShaD0w7x?tab=followers)
 [![repositories](https://img.shields.io/badge/repositories-browse-3fb950?style=flat-square&logo=github&logoColor=white)](https://github.com/zShaD0w7x?tab=repositories)
+
+</div>
 
 Most of it lands in **[linux-doctor](https://github.com/zShaD0w7x/linux-doctor)**.
 
 ---
 
-## CONTACT
+<div align="center">
+
+![CONTACT](https://img.shields.io/badge/-CONTACT-d29922?style=for-the-badge)
+
+</div>
 
 | | |
 | --- | --- |
